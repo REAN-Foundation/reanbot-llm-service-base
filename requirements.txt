@@ -1,4 +1,4 @@
-# aiohttp==3.10.11
+# aiohttp==3.14.4
 # aiosignal==1.3.1
 # annotated-types==0.6.0
 # anyio==3.7.1
@@ -73,7 +73,7 @@
 # langchain-community
 
 # Core async + web stack
-aiohttp==3.10.11
+aiohttp==3.14.4
 aiosignal==1.3.1
 anyio==4.4.0
 async-timeout==4.0.3
